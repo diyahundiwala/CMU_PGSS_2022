@@ -19,6 +19,8 @@ REVIEW:
   - NLP (text data classification):
     - transformers
     - TF-IDF
+    - knowledge distillation
+    - BERT
     
 NEW FROM 7/12/22:
 
@@ -33,3 +35,11 @@ NEW FROM 7/12/22:
     - save and load models for web API/app deployment
     - Containerization
     - CI/CD
+  - ++ low code no code
+    - EDA
+    - model building
+ - New Libraries
+    - H2O
+    - Pycaret
+    - Streamlit
+    - Docker
