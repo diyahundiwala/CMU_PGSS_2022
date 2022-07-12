@@ -25,6 +25,7 @@ REVIEW:
 NEW FROM 7/12/22:
 
 - Knowledge Areas
+  - Synthetic data generation
   - Image Analysis for classification and regression tasks
   - 1D Signal Analysis
   - Unsupervised EDA
