@@ -44,3 +44,4 @@ NEW FROM 7/12/22:
     - Pycaret
     - Streamlit
     - Docker
+ - MindsDB for machine learning
